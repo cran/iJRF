@@ -1,0 +1,11 @@
+d2adcb4ee687c957f9d9e614d4f37d46 *DESCRIPTION
+ae34f54dc47e4ad9dc882451f7f8da1c *NAMESPACE
+a8bd1e3aa47cfc6873fa7acbcad39930 *R/Unweighted_Network.R
+7c0477cf8e956478caf3ab921f0d1f06 *R/iJRF.R
+057fd3ee1194e1257a3ce085cf43692a *R/iJRF_Perm.R
+b6fab0a4e122737f872c227216ff07ac *man/Unweighted_Network.Rd
+a5b08208ad626f8257502c447e2e2267 *man/iJRF.Rd
+55e6247f845fd5f70fd125bcdf8aac5c *man/iJRF_Perm.Rd
+96560dfc7aa4ce46f1c04b708ddb0d9d *src/regTree.c
+3a8ce0611258af3048e076117b697773 *src/regrf.c
+864d605187d88ad62ece3a027a5b15e7 *src/rf.h
